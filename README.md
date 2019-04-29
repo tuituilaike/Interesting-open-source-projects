@@ -1,4 +1,4 @@
-PacVim# Interesting-open-source-projects
+# Interesting-open-source-projects
 # 收集:有趣的开源项目
 [****]
 
