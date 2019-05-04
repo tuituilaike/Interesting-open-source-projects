@@ -17,4 +17,6 @@ An email crawler for github.com using node.js, rxjs.
 [**new-pac**](https://github.com/ldqk/new-pac.git)
 科学上网专用 
 
+[**Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+
 [****]()
