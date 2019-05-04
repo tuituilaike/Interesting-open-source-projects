@@ -13,3 +13,8 @@ An email crawler for github.com using node.js, rxjs.
 ## 机器学习AI
 [**AiLearning**](https://github.com/apachecn/AiLearning.git)
 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
+
+[**new-pac**](https://github.com/ldqk/new-pac.git)
+科学上网专用 
+
+[****]()
