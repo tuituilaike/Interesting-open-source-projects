@@ -27,3 +27,11 @@ Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，�
 
 [**What the f*ck Python!**](https://github.com/Dr91/wtfpython-cn)
 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
+
+[**CS-Notes-PDF**](https://github.com/sjsdfg/CS-Notes-PDF)https://github.com/CyC2018/CS-Notes PDF版本离线阅读 
+
+[PDF版本离线阅读]()
+
+[****]()
+
+[****]()
