@@ -42,8 +42,22 @@ Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，�
 [在线阅读](https://cyc2018.github.io/CS-Notes/#/)    
 [PDF版本离线阅读](https://github.com/sjsdfg/CS-Notes-PDF)
 
-[****]()
+[**Algorithm_Interview_Notes-Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 
+
+[**report_gather**](https://github.com/xunyegege/report_gather)
+行业内领先的报告集合
+
+[**chinese-independent-developer**](https://github.com/1c7/chinese-independent-developer)
+中国独立开发者项目列表 -- 分享大家都在做什么
 
 [****]()
+
+
+[****]()
+
+
+[****]()
+
 
 
