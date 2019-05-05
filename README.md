@@ -1,6 +1,22 @@
 # Interesting-open-source-projects
 # 收集:有趣的开源项目
 [****]()
+[****]()
+[**social_mapper**](https://github.com/Greenwolf/social_mapper)
+（面部识别）A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) 
+
+[**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
+最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
+http://shici.store
+
+[**report_gather**](https://github.com/xunyegege/report_gather)
+行业内领先的报告集合
+
+[**chinese-independent-developer**](https://github.com/1c7/chinese-independent-developer)
+中国独立开发者项目列表 -- 分享大家都在做什么
+
+[**gavin_note**](https://github.com/xunyegege/gavin_note)
+平时学习时的相关知识点与生活小技巧.
 
 [**PacVim**](https://github.com/jmoon018/PacVim.git)
 Vim游戏 
@@ -36,7 +52,7 @@ Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，�
 [**What the f*ck Python!**](https://github.com/leisurelicht/wtfpython-cn)
 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
 
-## 面试题
+## 学习资料/面试题
 [**CS-Notes**](https://github.com/CyC2018/CS-Notes)
 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 
 [在线阅读](https://cyc2018.github.io/CS-Notes/#/)    
@@ -45,19 +61,9 @@ Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，�
 [**Algorithm_Interview_Notes-Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 
 
-[**report_gather**](https://github.com/xunyegege/report_gather)
-行业内领先的报告集合
+[**全栈工程师培训材料**](https://github.com/ruanyf/jstraining)
 
-[**chinese-independent-developer**](https://github.com/1c7/chinese-independent-developer)
-中国独立开发者项目列表 -- 分享大家都在做什么
-
-[****]()
-
-
-[****]()
-
-
-[****]()
+[**全栈工程师进阶加油站 **](https://github.com/xunyegege/source)
 
 
 
