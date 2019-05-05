@@ -25,13 +25,14 @@ An email crawler for github.com using node.js, rxjs.
 [**docker-wine-linux**](https://github.com/RokasUrbelis/docker-wine-linux)
 Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros 
 
-[**What the f*ck Python!**](https://github.com/Dr91/wtfpython-cn)
+[**What the f*ck Python!**](https://github.com/leisurelicht/wtfpython-cn)
 这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
+
 
 [**CS-Notes-PDF**](https://github.com/sjsdfg/CS-Notes-PDF)https://github.com/CyC2018/CS-Notes PDF版本离线阅读 
 
-[PDF版本离线阅读]()
-
-[****]()
+[**CS-Notes**](https://github.com/CyC2018/CS-Notes)
+技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 
+[在线阅读](https://cyc2018.github.io/CS-Notes/#/)
 
 [****]()
