@@ -19,4 +19,8 @@ An email crawler for github.com using node.js, rxjs.
 
 [**Data-Science--Cheat-Sheet**](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
+[**awesome-wechat-weapp**](https://github.com/justjavac/awesome-wechat-weapp)
+微信小程序开发资源汇总 
+[****]()
+
 [****]()
