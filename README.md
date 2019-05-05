@@ -23,4 +23,5 @@ An email crawler for github.com using node.js, rxjs.
 微信小程序开发资源汇总 
 [**docker-wine-linux**](https://github.com/RokasUrbelis/docker-wine-linux)
 Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros 
-[****]()
+[**What the f*ck Python!**](https://github.com/Dr91/wtfpython-cn)
+这个有趣的项目意在收集 Python 中那些难以理解和反人类直觉的例子以及鲜为人知的功能特性, 并尝试讨论这些现象背后真正的原理!
