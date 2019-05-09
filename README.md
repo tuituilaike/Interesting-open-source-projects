@@ -2,6 +2,16 @@
 # 收集:有趣的开源项目
 [****]()
 [****]()
+[****]()
+[**Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
+Python - 100天从新手到大师 
+
+[**the-craft-of-selfteaching**](https://github.com/selfteaching/the-craft-of-selfteaching)
+自学是门手艺One has no future if one couldn't teach themself. 
+
+[**area-china**](https://github.com/wendell-dev/area-china)
+中国行政区域国家统计局标准统计用区划代码省市区联动以及镇、街道、村、居委会等共5级行政区域数据的获取并建库，基于Python语言，存储于MongoDB 
+
 [**social_mapper**](https://github.com/Greenwolf/social_mapper)
 （面部识别）A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) 
 
