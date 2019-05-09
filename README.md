@@ -11,7 +11,7 @@
 [****]()
 [****]()
 [****]()
-[**博客文集《未来世界的幸存者》 **](https://github.com/ruanyf/survivor)
+[**博客文集《未来世界的幸存者》**](https://github.com/ruanyf/survivor)
 博客文集《未来世界的幸存者》 https://ruanyf.github.io/survivor
 
 [**learngit**](https://github.com/michaelliao/learngit)
