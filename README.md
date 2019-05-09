@@ -10,7 +10,9 @@
 [****]()
 [****]()
 [****]()
-[****]()
+[**poetry-desktop **](https://github.com/okcy1016/poetry-desktop)
+诗词桌面，还你一个简单的意境 ﾍ(=￣∇￣)ﾉ 
+
 [**博客文集《未来世界的幸存者》**](https://github.com/ruanyf/survivor)
 博客文集《未来世界的幸存者》 https://ruanyf.github.io/survivor
 
