@@ -1,6 +1,19 @@
 # Interesting-open-source-projects
 # 收集:有趣的开源项目
 [****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[****]()
+[**博客文集《未来世界的幸存者》 **](https://github.com/ruanyf/survivor)
+博客文集《未来世界的幸存者》 https://ruanyf.github.io/survivor
+
 [**learngit**](https://github.com/michaelliao/learngit)
 教程→ http://t.cn/zQ6LFwE 赞助→ http://t.cn/R5bhVpf 推送请使用UTF-8编码 http://t.cn/zQ6LFwE
 
