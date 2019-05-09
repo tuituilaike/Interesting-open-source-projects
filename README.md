@@ -6,10 +6,19 @@
 [****]()
 [****]()
 [****]()
-[****]()
-[****]()
-[****]()
-[****]()
+[**video**](https://github.com/phobal/ivideo)
+一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform 
+基于 Electron 开发的跨平台客户端版本的视频播放器，该播放器包括国内主流视频平台视频资源，你不用去单独下载各个平台的客户端，只需要使用这一个客户端就能查看所有平台的视频，并且内置了各大视频网站 VIP 资源。
+
+[**BaiduPCS-Go**](https://github.com/iikira/BaiduPCS-Go)
+百度网盘客户端 - Go语言编写 
+
+[**Full-Stack-Developer-Note**](https://github.com/DreamerWinston/Full-Stack-Developer-Note)
+全栈工程师学习笔记 
+
+[**Anti-Anti-Spider**](https://github.com/luyishisi/Anti-Anti-Spider)
+反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。
+
 [**poetry-desktop **](https://github.com/okcy1016/poetry-desktop)
 诗词桌面，还你一个简单的意境 ﾍ(=￣∇￣)ﾉ 
 
