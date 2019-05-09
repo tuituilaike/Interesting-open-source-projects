@@ -1,8 +1,12 @@
 # Interesting-open-source-projects
 # 收集:有趣的开源项目
 [****]()
-[****]()
-[****]()
+[**learngit**](https://github.com/michaelliao/learngit)
+教程→ http://t.cn/zQ6LFwE 赞助→ http://t.cn/R5bhVpf 推送请使用UTF-8编码 http://t.cn/zQ6LFwE
+
+[**ECMAScript 6入门**](https://github.com/ruanyf/es6tutorial)
+《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 http://es6.ruanyifeng.com/
+
 [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
 Python - 100天从新手到大师 
 
