@@ -7,7 +7,7 @@
 [****]()
 [****]()
 [****]()
-[****]()
+
 
 
 
@@ -124,6 +124,9 @@ Python - 100天从新手到大师
 
 [**Full-Stack-Developer-Note**](https://github.com/DreamerWinston/Full-Stack-Developer-Note)
 全栈工程师学习笔记 
+
+[**interviews**](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
+软件工程技术面试个人指南。
 
 # 工具
 
