@@ -31,5 +31,31 @@ Python爬虫代理IP池(proxy pool)
 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 
 
 ## 优秀图片/视频项目
-[****]()
-[****]()
+[Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载](https://github.com/sczhengyabin/Image-Downloader)
+
+    从图片搜索引擎，爬取关键字搜索的原图URL并下载
+    开发语言python，采用Requests、Selenium、Phantomjs等库进行开发
+
+[](https://github.com/iawia002/annie)
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
