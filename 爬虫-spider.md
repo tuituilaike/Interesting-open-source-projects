@@ -36,7 +36,8 @@ Python爬虫代理IP池(proxy pool)
     从图片搜索引擎，爬取关键字搜索的原图URL并下载
     开发语言python，采用Requests、Selenium、Phantomjs等库进行开发
 
-[](https://github.com/iawia002/annie)
+[annie](https://github.com/iawia002/annie)
+各大视频网站爬虫。Annie是一款以go语言编码的视频下载工具，使用便捷并支持youtube，腾讯视频，抖音等多个网站视频和图像的下载。
 
 []()
 
