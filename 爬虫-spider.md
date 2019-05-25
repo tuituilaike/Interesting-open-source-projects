@@ -12,7 +12,6 @@ APP爬虫 自动化薅羊毛
 反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。
 
 ## 综述类项目与学习资料
-
 [**awesome-spider**](https://github.com/facert/awesome-spider)
 一个知乎工程师开源的。这一款爬虫，里面搜集了几乎所有可以爬取的中文网址，从知乎豆瓣到知网，抖音微博到QQ，还有很多的不可描述的网站，你懂的。
 
@@ -31,5 +30,6 @@ Python爬虫代理IP池(proxy pool)
 [**Python-crawler**](https://github.com/Ehco1996/Python-crawler)
 从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 
 
+## 优秀图片/视频项目
 [****]()
 [****]()
