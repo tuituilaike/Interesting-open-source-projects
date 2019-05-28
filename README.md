@@ -54,17 +54,6 @@ Fusuma轻松制作带有Markdown的幻灯片。 ✍️Fusuma makes slides with M
 [poetry-desktop](https://github.com/okcy1016/poetry-desktop)
 诗词桌面，还你一个简单的意境 ﾍ(=￣∇￣)ﾉ 
 
-# 文集/杂记
-
-[**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
-最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
-http://shici.store
-
-[**博客文集《未来世界的幸存者》**](https://github.com/ruanyf/survivor)
-博客文集《未来世界的幸存者》 https://ruanyf.github.io/survivor
-
-[**the-craft-of-selfteaching**](https://github.com/selfteaching/the-craft-of-selfteaching)
-自学是门手艺One has no future if one couldn't teach themself. 
 
 
 
