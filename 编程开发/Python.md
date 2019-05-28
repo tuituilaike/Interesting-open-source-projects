@@ -5,3 +5,7 @@
 
 [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
 Python - 100天从新手到大师 
+
+[Python_Skills](https://github.com/521xueweihan/Python_Skills)
+Python 相关编程知识、资料、技巧
+
