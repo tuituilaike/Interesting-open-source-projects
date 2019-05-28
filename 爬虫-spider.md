@@ -1,5 +1,7 @@
 
 # 爬虫
+[smart_login](https://github.com/SpiderClub/smart_login)
+各大网站登陆方式，有的是通过selenium登录，有的是通过抓包直接模拟登录（精力原因，目前不再继续维护） 
 
 [**github_email_crawler**](https://github.com/nekocode/github_email_crawler)
 An email crawler for github.com using node.js, rxjs.
