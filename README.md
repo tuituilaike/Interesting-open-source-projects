@@ -51,7 +51,7 @@
 [**fusuma**](https://github.com/hiroppy/fusuma.git)
 Fusuma轻松制作带有Markdown的幻灯片。 ✍️Fusuma makes slides with Markdown easily. https://hiroppy.github.io/fusuma/intro
 
-[**poetry-desktop **](https://github.com/okcy1016/poetry-desktop)
+[poetry-desktop](https://github.com/okcy1016/poetry-desktop)
 诗词桌面，还你一个简单的意境 ﾍ(=￣∇￣)ﾉ 
 
 # 文集/杂记
