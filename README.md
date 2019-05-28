@@ -47,34 +47,12 @@
 平时学习时的相关知识点与生活小技巧.
 
 
-## 工具
-[**fusuma**](https://github.com/hiroppy/fusuma.git)
-Fusuma轻松制作带有Markdown的幻灯片。 ✍️Fusuma makes slides with Markdown easily. https://hiroppy.github.io/fusuma/intro
-
-[poetry-desktop](https://github.com/okcy1016/poetry-desktop)
-诗词桌面，还你一个简单的意境 ﾍ(=￣∇￣)ﾉ 
-
-
-
-
-
-
 # 编程开发
-
-
-
-
-
-
-
-
 
 ## JavaScript 
 
 [**ECMAScript 6入门**](https://github.com/ruanyf/es6tutorial)
 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 http://es6.ruanyifeng.com/
-
-
 
 ## 机器学习AI
 
@@ -87,72 +65,6 @@ Fusuma轻松制作带有Markdown的幻灯片。 ✍️Fusuma makes slides with M
 （面部识别）A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) 
 
 
-
-## 梯子
-
-[**new-pac**](https://github.com/ldqk/new-pac.git)
-科学上网专用 
-
-
-
-
-
-[****]()
-
-[****]()
-
-[****]()
-
-
-
-
-
-[****]()
-
-
-# 工具
-
-
-
-## 下载工具
-
-[**BaiduPCS-Go**](https://github.com/iikira/BaiduPCS-Go)
-百度网盘客户端 - Go语言编写 
-
-
-
-
-
-
-
-
-
-## 音视频
-
-[**video**](https://github.com/phobal/ivideo)
-一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform 
-基于 Electron 开发的跨平台客户端版本的视频播放器，该播放器包括国内主流视频平台视频资源，你不用去单独下载各个平台的客户端，只需要使用这一个客户端就能查看所有平台的视频，并且内置了各大视频网站 VIP 资源。
-
-
-
-
-
-
-
-
-
-
 ## 框架
 [**flink-training-course**](https://github.com/flink-china/flink-training-course.git)
-
-
-
-
-
-
-
-
-
-
-
 
