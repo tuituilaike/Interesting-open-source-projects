@@ -65,10 +65,6 @@ Fusuma轻松制作带有Markdown的幻灯片。 ✍️Fusuma makes slides with M
 
 
 
-## 版本控制
-
-[**learngit**](https://github.com/michaelliao/learngit)
-教程→ http://t.cn/zQ6LFwE 赞助→ http://t.cn/R5bhVpf 推送请使用UTF-8编码 http://t.cn/zQ6LFwE
 
 ## Linux
 
