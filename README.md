@@ -18,7 +18,7 @@
 
 [fullstack](https://github.com/TrillCyborg/fullstack.git)
 一个应用程序，用户通过平台支付租金而不是支票或银行转帐。
-[fork](git@github.com:Dr91/fullstack.git)
+[fork](https://github.com/Dr91/fullstack)
 
 
 
